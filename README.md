@@ -4,7 +4,8 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A tip calculator with a simple working mainly focusing on UI
+
 
 A few resources to get you started if this is your first Flutter project:
 
